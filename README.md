@@ -1,4 +1,8 @@
 # Retail Shopkeepers: Price Tracker Tool
+Members
+1.merkit john   email:merkitjohn@gmail.com
+2.Peter Kyalo Nzingu    email: peterkyalo69@gmail.com
+3.Solomon wambua    email:juniahsolo01@gmail.com
 
 ## Overview
 Shopkeepers in informal markets often face challenges with rapidly changing supplier prices, making it difficult to make informed purchasing decisions. This tool empowers shopkeepers to compare and track supplier prices, helping them make smarter, data-driven purchases and improve their business profitability.
