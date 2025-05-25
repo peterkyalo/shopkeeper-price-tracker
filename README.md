@@ -2,7 +2,7 @@
 ## Group 299 Members 
 - **Merkit John**   *email:* merkitjohn@gmail.com
 - **Peter Kyalo Nzingu**    *email:* peterkyalo69@gmail.com
-- **Solomon wambua**    *email:* juniahsolo01@gmail.com
+- **Solomon Wambua**    *email:* juniahsolo01@gmail.com
 
 ## Overview
 Shopkeepers in informal markets often face challenges with rapidly changing supplier prices, making it difficult to make informed purchasing decisions. This tool empowers shopkeepers to compare and track supplier prices, helping them make smarter, data-driven purchases and improve their business profitability.
