@@ -4,6 +4,11 @@
 - **Peter Kyalo Nzingu**    *email:* peterkyalo69@gmail.com
 - **Solomon Wambua**    *email:* juniahsolo01@gmail.com
 
+## Our Pitch Deck
+<a href="[https://www.canva.com/design/DAGoeNcA6RU/view](https://www.canva.com/design/DAGoeNcA6RU/6AiuyUUIHU7Ix5ZPwDTr1g/edit?utm_content=DAGoeNcA6RU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" target="_blank">
+  <img src="https://img.shields.io/badge/View-Pitch_Deck-blue?style=for-the-badge&logo=canva" alt="View Pitch Deck">
+</a>
+
 ## Overview
 Shopkeepers in informal markets often face challenges with rapidly changing supplier prices, making it difficult to make informed purchasing decisions. This tool empowers shopkeepers to compare and track supplier prices, helping them make smarter, data-driven purchases and improve their business profitability.
 
