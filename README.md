@@ -5,9 +5,7 @@
 - **Solomon Wambua**    *email:* juniahsolo01@gmail.com
 
 ## Our Pitch Deck
-<a href="https://www.canva.com/design/DAGoeNcA6RU/6AiuyUUIHU7Ix5ZPwDTr1g/edit?utm_content=DAGoeNcA6RU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
-  <img src="https://img.shields.io/badge/📊_View_Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Pitch Deck">
-</a>
+
 
 ## Overview
 Shopkeepers in informal markets often face challenges with rapidly changing supplier prices, making it difficult to make informed purchasing decisions. This tool empowers shopkeepers to compare and track supplier prices, helping them make smarter, data-driven purchases and improve their business profitability.
