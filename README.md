@@ -1,5 +1,5 @@
 # Retail Shopkeepers: Price Tracker Tool
-## Group 299 Members 
+## Group Members 
 - **Merkit John**   *email:* merkitjohn@gmail.com
 - **Peter Kyalo Nzingu**    *email:* peterkyalo69@gmail.com
 - **Solomon Wambua**    *email:* juniahsolo01@gmail.com
